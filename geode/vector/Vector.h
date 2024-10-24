@@ -3,6 +3,7 @@
 //#####################################################################
 #pragma once
 
+#include <limits>
 #include <geode/vector/Vector0d.h>
 #include <geode/vector/Vector1d.h>
 #include <geode/vector/Vector2d.h>

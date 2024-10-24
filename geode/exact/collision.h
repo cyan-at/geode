@@ -5,6 +5,7 @@
 
 #pragma once
 
+#include <limits>
 #include <geode/utility/config.h>
 #include <geode/vector/Vector.h>
 namespace geode {

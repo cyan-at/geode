@@ -3,6 +3,7 @@
 //#####################################################################
 #pragma once
 
+#include <limits>
 #include <geode/vector/forward.h>
 #include <geode/vector/Matrix0x0.h>
 #include <geode/vector/Matrix1x1.h>

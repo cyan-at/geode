@@ -7,6 +7,7 @@
 //#####################################################################
 #pragma once
 
+#include <limits>
 #include <geode/array/forward.h>
 #include <geode/vector/Vector.h>
 #include <geode/utility/str.h>

@@ -3,6 +3,7 @@
 //#####################################################################
 #pragma once
 
+#include <limits>
 #include <geode/vector/Rotation.h>
 #include <geode/vector/Vector.h>
 #include <geode/vector/VectorPolicy.h>

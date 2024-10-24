@@ -3,6 +3,7 @@
 //#####################################################################
 #pragma once
 
+#include <limits>
 #include <geode/vector/ArithmeticPolicy.h>
 #include <geode/vector/Vector2d.h>
 #include <geode/math/maxabs.h>

@@ -3,6 +3,7 @@
 //#####################################################################
 #pragma once
 
+#include <limits>
 #include <geode/vector/ArithmeticPolicy.h>
 #include <geode/vector/Vector1d.h>
 #include <geode/math/robust.h>

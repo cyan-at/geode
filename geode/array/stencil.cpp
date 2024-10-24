@@ -1,3 +1,4 @@
+#include <limits>
 #include <geode/array/Array2d.h>
 #include <geode/vector/Vector2d.h>
 #include <geode/array/stencil.h>

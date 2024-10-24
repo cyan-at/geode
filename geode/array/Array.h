@@ -17,6 +17,7 @@
 //#####################################################################
 #pragma once
 
+#include <limits>
 #include <geode/array/ArrayBase.h>
 #include <geode/array/RawArray.h>
 #include <geode/python/Buffer.h>
